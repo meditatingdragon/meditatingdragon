@@ -3,7 +3,7 @@ I'm a fullstack (jack-of-all-trades) dev, beginning my developer journey ~2003 w
 
 If you're looking for a reliable developer, [reach out](https://www.rachelcheuk.com/contact)!
 
-### Current Projects:
+### Current (Open Source) Projects:
 
 * [Blokii](www.blokii.com) - Developer focused tools for writing
   - Blokii Editor (made for markdown/git repos)
