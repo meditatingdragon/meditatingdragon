@@ -3,19 +3,21 @@ I'm a fullstack (jack-of-all-trades) dev, beginning my developer journey ~2003 w
 
 If you're looking for a reliable developer, [reach out](https://www.rachelcheuk.com/contact)!
 
-### Current (Open Source) Projects:
+### Current Bootstrapped Projects:
+
+* [Eonzah](https://eonzah.com) - Run interactive giveaway games, such as scratchcards and mix-and-match
+  - For entrepreneurs and small businesses, built for brick-and-mortar businesses to better engage customers remotely  
+
+### Current (Open Source) Projects (on hold):
 
 * [Blokii](www.blokii.com) - Developer focused tools for writing
   - Blokii Editor (made for markdown/git repos)
   - Blokii CLI (generates git templates for markdown content, catered to developer needs, such as code documentation, technical whitepapers and ebooks). 
 
 ### Snapshot
-- 🌱 I’m currently learning realtime/streaming visualizations with web sockets and how to create command line generators.
-- 💬 Ask me about martial arts.
+- 🌱 I’m currently learning cross-platform mobile app development (looking at Capacitor and Flutter).
+- 💬 Ask me about martial arts or rock climbing.
 - 📫 How to reach me: 
   * [Twitter](twitter.com/@rachel_cheuk)
   * [LinkedIn](linkedin.com/in/rachelcheuk)
   * [Dev.to](https://dev.to/rachel_cheuk)
-  
-### Let's Collaborate:
-- I'm in the process of open-sourcing the code for the Blokii ecosystem. Always looking for contributors. Please reach out if this project interests you! 
