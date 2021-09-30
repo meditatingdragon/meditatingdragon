@@ -24,6 +24,7 @@ If you're looking for a reliable developer, [reach out](https://www.rachelcheuk.
 
 * [Blokii](www.blokii.com) - Developer focused tools for writing
   - Blokii Editor (made for markdown/git repos)
+  - [Blokii Image Maker](https://dev.to/rachel_cheuk/do-hackathon-blokii-image-maker-an-introduction-2dfj) (generates a downloadable image for tech blogs)
   - Blokii CLI (generates git templates for markdown content, catered to developer needs, such as code documentation, technical whitepapers and ebooks). 
 
 ### Snapshot
