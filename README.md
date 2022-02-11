@@ -8,7 +8,7 @@ I'm a fullstack dev, beginning my tech journey ~2003 with HTML and CSS. Since th
 
 ### Current (Open Source) Projects (on hold):
 
-* [Blokii](www.blokii.com) - Developer focused tools for writing
+* [Blokii](https://www.blokii.com) - Developer focused tools for writing
   - Blokii Editor (made for markdown/git repos)
   - [Blokii Image Maker](https://dev.to/rachel_cheuk/do-hackathon-blokii-image-maker-an-introduction-2dfj) (generates a downloadable image for tech blogs)
   - Blokii CLI (generates git templates for markdown content, catered to developer needs, such as code documentation, technical whitepapers and ebooks). 
