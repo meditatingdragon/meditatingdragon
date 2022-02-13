@@ -3,7 +3,7 @@ I'm a fullstack dev, beginning my tech journey ~2003 with HTML and CSS. Since th
 
 ### Current Bootstrapped Projects (on hold):
 
-* [Eonzah](https://eonzah.com) - Run interactive giveaway games, such as scratchcards and mix-and-match
+* [Eonzah](https://optimistic-wescoff-3f8882.netlify.app/) - Run interactive giveaway games, such as scratchcards and mix-and-match
   - For entrepreneurs and small businesses, built for brick-and-mortar businesses to better engage customers remotely  
 
 ### Current (Open Source) Projects (on hold):
