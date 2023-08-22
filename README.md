@@ -18,6 +18,5 @@ I'm a fullstack dev, beginning my tech journey ~2003 with HTML and CSS. Since th
 - 💬 Ask me about martial arts or rock climbing.
 - 📫 How to reach me: 
   * [Twitter](twitter.com/@rachel_cheuk)
-  * [LinkedIn](linkedin.com/in/rachelcheuk)
   * [Dev.to](https://dev.to/rachel_cheuk)
   * [Medium](https://medium.com/@rachel.cheuk)
