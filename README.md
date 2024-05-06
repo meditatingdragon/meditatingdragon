@@ -14,7 +14,7 @@ I'm a fullstack dev, beginning my tech journey ~2003 with HTML and CSS. Since th
   - Blokii CLI (generates git templates for markdown content, catered to developer needs, such as code documentation, technical whitepapers and ebooks). 
 
 ### Snapshot
-- 🌱 I’m currently learning cross-platform mobile app development (looking at Capacitor and Flutter).
+- 🌱 I’m currently dabbling in the AI space and experimenting with different models.
 - 💬 Ask me about martial arts or rock climbing.
 - 📫 How to reach me: 
   * [Twitter](twitter.com/@rachel_cheuk)
