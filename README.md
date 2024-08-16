@@ -15,7 +15,6 @@ I'm a fullstack dev, beginning my tech journey ~2003 with HTML and CSS. Since th
 
 ### Snapshot
 - 🌱 I’m currently dabbling in the AI space and experimenting with different models.
-- 💬 Ask me about martial arts or rock climbing.
 - 📫 How to reach me: 
   * [Twitter](twitter.com/@rachel_cheuk)
   * [Dev.to](https://dev.to/rachel_cheuk)
